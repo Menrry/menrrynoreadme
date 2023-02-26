@@ -1,0 +1,5 @@
+probando escritura
+como se guarda en gitlocal
+
+desde aqui ahora comenzamos la segunda estapa:
+segundo commit 
